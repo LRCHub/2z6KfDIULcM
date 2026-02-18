@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Lonely at the Top (Bonus)",
+  "base_artist": "J. Cole",
+  "createdAt": "2026-02-18T12:35:23.765122Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lonely at the Top (Bonus)",
+      "artist": "J. Cole",
+      "has_synced": false,
+      "path": "select/01_Lonely_at_the_Top_(Bonus)_J._Cole.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "J. Cole - Lonely At The Top (Bonus) (Official Audio)",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/02_J._Cole_-_Lonely_At_The_Top_(Bonus)_(Official_Audio)_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lonely at the Top [bonus track]",
+      "artist": "Van Morrison",
+      "has_synced": true,
+      "path": "select/03_Lonely_at_the_Top_[bonus_track]_Van_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lonely at the Top (Bonus Track)",
+      "artist": "Van Morrison",
+      "has_synced": true,
+      "path": "select/04_Lonely_at_the_Top_(Bonus_Track)_Van_Morrison.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lonely at the Top (Bonus)",
+      "artist": "J.Cole",
+      "has_synced": false,
+      "path": "select/pl_01_Lonely_at_the_Top_(Bonus)_J.Cole.txt"
+    }
+  ]
+}
